@@ -1,2 +1,2 @@
 # workdock
-Keyboard using OLED screens to never remember any shortcut again
+Keyboard with OLED screens to keep your cool shortcuts
